@@ -153,7 +153,48 @@ The pipeline is modular, event-driven, scalable, and employs multi-layer validat
 - Advanced ML models for better prediction  
 - Real-time traffic integration  
 - Personalized insurance plans  
-- Multi-city scaling  
+- Multi-city scaling
+
+Market Crisis:
+
+# Adversarial Defense & Anti-Spoofing Strategy
+
+## 1. Differentiation
+
+Our system uses multi-factor verification to differentiate genuinely stranded delivery partners from GPS-spoofing bad actors:
+
+- **Real-time location cross-validation** with multiple sensors (GPS + WiFi triangulation + cell tower data)
+- **Correlation with local conditions**: weather, traffic, and operational platform data
+- **Behavioral analytics** for normal activity patterns:
+ - Shift start/end times
+ - Average speed
+ - Number of claims
+
+## 2. Data Analysis
+
+To detect coordinated fraud rings, we analyze:
+
+- **Clustered claims** from multiple users in the same zones/timeframes
+- **GPS anomaly patterns**:
+ - Jumps
+ - Impossible speed
+ - Repeated coordinates
+- **Temporal behavior**:
+ - Claim frequency spikes vs. normal historical data
+- **Device & app telemetry**:
+ - Cross-referencing device identifiers
+ - App usage patterns
+
+## 3. UX Balance
+
+To ensure honest users are not penalized:
+
+- **Soft verification** for flagged claims, allowing conditional payout or temporary hold
+- **Manual review option** for extreme edge cases
+- **AI confidence scores** guide decision-making rather than blanket rejection
+- **Transparent notifications** inform users if their claim is under review
+
+This multi-layer strategy ensures **robust anti-spoofing protection** while maintaining **fairness and trust** for legitimate workers.
 
 ## GitHub Repo Link
 [https://github.com/Adithya-P-Vishwamitra/GIGSURANCE.git](https://github.com/Adithya-P-Vishwamitra/GIGSURANCE.git)
