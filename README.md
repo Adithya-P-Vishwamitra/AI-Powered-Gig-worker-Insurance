@@ -156,7 +156,7 @@ The pipeline is modular, event-driven, scalable, and employs multi-layer validat
 - Multi-city scaling  
 
 ## GitHub Repo Link
-[https://github.com/Adithya-P-Vishwamitra/AI-Powered-Gig-worker-Insurance.git](https://github.com/Adithya-P-Vishwamitra/AI-Powered-Gig-worker-Insurance.git)
+[https://github.com/Adithya-P-Vishwamitra/GIGSURANCE.git](https://github.com/Adithya-P-Vishwamitra/GIGSURANCE.git)
 
 ## Team Members
 1. Guruprasad N Gowda  
