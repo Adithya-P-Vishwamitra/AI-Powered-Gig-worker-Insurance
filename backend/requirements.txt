@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+httpx
+python-multipart
+python-dotenv
+firebase-admin
+twilio
+googlemaps
+newsapi-python
